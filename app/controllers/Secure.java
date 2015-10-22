@@ -7,10 +7,20 @@ package controllers;
 
 /**
  *
- * @author Brian Barrón Díaz
+ * @author Brian Barrón Diáz
  */
-public class Usuarios extends CRUD{
-    
+class Secure {
+
+    static class Security {
+
+        public Security() {
+        }
+    }
+
+    static class Security {
+
+        public Security() {
+        }
+    }
     
 }
-
